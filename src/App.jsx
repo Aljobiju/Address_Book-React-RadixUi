@@ -5,7 +5,7 @@ function App() {
     <>
       <Flex direction="column" gap="2">
         <Text>Hello from Radix Themes :</Text>
-        <Button>Lets go</Button>
+        <Button>Lets go guys</Button>
       </Flex>
     </>
   );
